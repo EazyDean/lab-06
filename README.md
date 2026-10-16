@@ -32,3 +32,24 @@ Regenerate the HTML API documentation:
 
 The [generated Dokka documentation](app/build/dokka/html/index.html) is included
 in the repository as required for submission.
+
+## Replication Verification Prompt
+
+```text
+Audit this Lab 6 repository against its instructions.
+
+Check:
+- Android Studio imports and Gradle sync succeeds.
+- The debug APK builds.
+- Wizard has correct KDoc.
+- Explosion and Frostbite follow the required mana and damage rules.
+- WizardTest contains all four required tests.
+- All tests pass.
+- Dokka HTML is generated and tracked by Git.
+- README and LICENSE contain the correct student information.
+- The repository contains no accidental temporary files.
+- The Git worktree contains only intentional changes.
+
+Fix any problems you find, rerun all relevant checks, and provide a concise
+completion report.
+```

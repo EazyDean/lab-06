@@ -1,5 +1,19 @@
 package com.example.lab_6
 
+/*
+ * Replication prompt - Core exercise
+ *
+ * Create the Lab 6 Wizard exercise in the existing Android/Kotlin project.
+ *
+ * Add Wizard.kt with documented name, mana, and spellPower properties.
+ * Implement Explosion and Frostbite spell behavior, including mana consumption
+ * and insufficient-mana handling.
+ *
+ * Add WizardTest.kt using JUnit 4 and @Before. Include exactly four tests
+ * covering successful and unsuccessful casts of both spells. Run the tests and
+ * fix the project until all four pass.
+ */
+
 /**
  * Represents a wizard character that can cast spells using mana.
  *

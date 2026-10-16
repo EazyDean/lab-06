@@ -1,5 +1,21 @@
 package com.example.lab_6
 
+/*
+ * Replication prompt - Build the Android Studio shell
+ *
+ * Turn this repository into an Android Studio project that can be opened from
+ * the repository root.
+ *
+ * Use Kotlin, Jetpack Compose, package com.example.lab_6, minimum SDK 24, and a
+ * compatible Android/Gradle configuration. Add the Gradle wrapper, manifest,
+ * resources, application icon, and MainActivity.
+ *
+ * MainActivity must show visible centered text saying "Lab 6" and
+ * "Code Documentation and Unit Testing." Build the debug APK and verify the
+ * application launches on an emulator without crashing or showing an empty
+ * screen.
+ */
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

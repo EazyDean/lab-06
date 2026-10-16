@@ -4,6 +4,18 @@ plugins {
     id("org.jetbrains.dokka") version "2.2.0"
 }
 
+// Replication prompt - Configure Dokka and documentation
+//
+// Configure Dokka 2.2.0 in this Android project.
+//
+// Add clear KDoc documentation to the Wizard class and castSpell function,
+// including @property, @param, and @return tags. Run
+// ./gradlew dokkaGenerateHtml and verify that the generated HTML contains pages
+// for Wizard and castSpell.
+//
+// Update .gitignore so app/build remains ignored except app/build/dokka/**,
+// because the generated documentation must be committed.
+
 android {
     namespace = "com.example.lab_6"
     compileSdk {
