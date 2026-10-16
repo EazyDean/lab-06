@@ -1,0 +1,12 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.lab_6////PointingToDeclaration/app/com.example.lab_6/index.html
+$dokka.location:com.example.lab_6/MainActivity///PointingToDeclaration/app/com.example.lab_6/-main-activity/index.html
+$dokka.location:com.example.lab_6/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.lab_6/-main-activity/-main-activity.html
+$dokka.location:com.example.lab_6/Wizard///PointingToDeclaration/app/com.example.lab_6/-wizard/index.html
+$dokka.location:com.example.lab_6/Wizard/Wizard/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.lab_6/-wizard/-wizard.html
+$dokka.location:com.example.lab_6/Wizard/castSpell/#kotlin.String/PointingToDeclaration/app/com.example.lab_6/-wizard/cast-spell.html
+$dokka.location:com.example.lab_6/Wizard/mana/#/PointingToDeclaration/app/com.example.lab_6/-wizard/mana.html
+$dokka.location:com.example.lab_6/Wizard/name/#/PointingToDeclaration/app/com.example.lab_6/-wizard/name.html
+$dokka.location:com.example.lab_6/Wizard/spellPower/#/PointingToDeclaration/app/com.example.lab_6/-wizard/spell-power.html
+com.example.lab_6

@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Ignore generated build output except the Dokka HTML required for submission.
+**/build/*
+!app/build/dokka/
+!app/build/dokka/**
